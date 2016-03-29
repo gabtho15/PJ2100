@@ -1,2 +1,6 @@
 test! lol NIK change
+<<<<<<< HEAD
 endre
+=======
+ ????????
+>>>>>>> 2946182273ae8b8cae77ee9521509f984bb06a08
